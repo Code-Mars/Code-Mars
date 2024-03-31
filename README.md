@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 I am Chandrabhan Maurya and I'm a Software Developer at Infosys</h2>
+<h2 align="left">Hi 👋 I am Chandrabhan Maurya, Software Developer at Infosys</h2>
 
 ###
 
